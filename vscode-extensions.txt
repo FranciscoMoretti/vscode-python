@@ -1,0 +1,12 @@
+aaron-bond.better-comments
+almenon.arepl
+CoenraadS.bracket-pair-colorizer-2
+cschlosser.doxdocgen
+formulahendry.code-runner
+KevinRose.vsc-python-indent
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+njpwerner.autodocstring
+shardulm94.trailing-spaces
+kiteco.kite
