@@ -43,6 +43,8 @@ pip install -U -r requirements.txt
 The settings file, located in `.vscode/settings.json`, should be automatically detected by VS Code.
 The window might need to reloaded on the first usage.
 
+> Linux users should uncomment the lines that say `Linux` and comment the lines that say `Windows` to properly set the path to packages.
+
 ## Linting the whole project
 Alternatively, linting analysis for the whole repository can
 be executed using `prospector` package in the command line. This should happen inside the virtual environment and in the root of the repository.
