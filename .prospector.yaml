@@ -1,0 +1,9 @@
+strictness: medium # Possible values are {veryhigh,high,medium,low,verylow}
+doc-warnings: true
+test-warnings: false
+member-warnings: false
+# Default value is true, but current version has a problem and detects Django incorrectly
+autodetect: false
+
+ignore-paths:
+    - venv
